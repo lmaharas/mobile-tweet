@@ -2,7 +2,7 @@
 	"use strict";
 	
 	var windowWidth = $(window).width();
-	
+		
 	function hideHomeWrapper() {
 		
 		$('.home-wrapper').animate({
